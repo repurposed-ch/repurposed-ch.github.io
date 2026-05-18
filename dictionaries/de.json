@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "home": "Repurposed.",
+    "about": "Über Repurposed."
+  },
+  "home": {
+    "meta": {
+      "title": "Repurposed.",
+      "description": "Wiederverwendung ermöglichen."
+    },
+    "heading": "Willkommen bei Repurposed.",
+    "subheading": "Werkzeuge für Abbrucharbeiter, Verwerter, Bauunternehmen und Lagerverwalter."
+  },
+  "about": {
+    "meta": {
+      "description": "Repurposed – Webplattform für den Verkauf wiederverwendbarer Baumaterialien für die Bauindustrie."
+    },
+    "heading": "Mein Name ist SomethingElse!",
+    "subheading": "Mehr erfahren unter <a href=\"https://repurposed.ch\" target=\"_blank\">repurposed.ch</a>."
+  }
+}

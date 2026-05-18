@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "home": "Repurposed.",
+    "about": "Om Repurposed."
+  },
+  "home": {
+    "meta": {
+      "title": "Repurposed.",
+      "description": "Muliggør genbrug."
+    },
+    "heading": "Velkommen til Repurposed.",
+    "subheading": "Værktøjer til nedrivere, genbrugshandlere, entreprenører og lageradministratorer."
+  },
+  "about": {
+    "meta": {
+      "description": "Repurposed – webplatform, der muliggør salg af genbrugte byggematerialer til byggebranchen."
+    },
+    "heading": "Mit navn er SomethingElse!",
+    "subheading": "Læs mere på <a href=\"https://repurposed.ch\" target=\"_blank\">repurposed.ch</a>."
+  }
+}

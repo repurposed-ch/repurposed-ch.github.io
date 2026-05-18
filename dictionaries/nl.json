@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "home": "Repurposed.",
+    "about": "Over Repurposed."
+  },
+  "home": {
+    "meta": {
+      "title": "Repurposed.",
+      "description": "Hergebruik mogelijk maken."
+    },
+    "heading": "Welkom bij Repurposed.",
+    "subheading": "Tools voor slopers, hergebruikers, aannemers en voorraadbeheerders."
+  },
+  "about": {
+    "meta": {
+      "description": "Repurposed – webplatform voor de verkoop van hergebruikte bouwmaterialen, gericht op de bouwsector."
+    },
+    "heading": "Mijn naam is SomethingElse!",
+    "subheading": "Meer informatie op <a href=\"https://repurposed.ch\" target=\"_blank\">repurposed.ch</a>."
+  }
+}
